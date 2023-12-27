@@ -1,6 +1,6 @@
 /*
  * File: 102-print_comb5.c
- * Auth: Brennan D Baraban
+ * Auth: Faith Jackson
  */
 
 #include <stdio.h>
