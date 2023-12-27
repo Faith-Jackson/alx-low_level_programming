@@ -1,4 +1,6 @@
-nan D Baraban
+/*
+ * File: 0-isupper.c
+ * Auth: Faith Jackson
  */
 
 #include "holberton.h"
